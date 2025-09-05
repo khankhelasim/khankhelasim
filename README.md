@@ -2,7 +2,10 @@
 
 🎯 **Linux Sysadmin | DevOps & Cloud Engineer | Security Enthusiast**
 
-<img align="right" alt="DevOps" width="400" src="https://raw.githubusercontent.com/AsimRasheed/AsimRasheed/main/assets/devops-cloud.png" />
+
+
+
+<img align="right" alt="DevOps" width="400" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/devops.gif" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=DevOps+%7C+Cloud+%7C+SysOps;Docker+%7C+Kubernetes+%7C+OpenShift;AWS+%7C+Azure+%7C+Security;Automation+%7C+CI%2FCD+%7C+Monitoring" />
 
